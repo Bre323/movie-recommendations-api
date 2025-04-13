@@ -1,2 +1,4 @@
 # Movie Recommendations API
- - This is an API developed with python.
+
+ - This is a FastAPI based movie recommendation system.
+ - Developed using python language.
